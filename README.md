@@ -1,2 +1,2 @@
  > [!CAUTION]
- > Projeto feito na alura, falta finalizar!
+ > Projeto feito na Alura, falta finalizar!
